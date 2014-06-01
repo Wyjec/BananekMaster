@@ -1,0 +1,52 @@
+<items>
+	<item>
+		<id>IKONA1</id>
+		<name>Ikona Systemowa</name>
+		<image>ikona1.png</image>
+	</item>
+	<item>
+		<id>IKONA2</id>
+		<name>Ikona z dupy</name>
+		<image>ikona2.png</image>
+	</item>
+	<item>
+		<id>IKONA3</id>
+		<name>Ikona jouki</name>
+		<image>ikona3.png</image>
+	</item>
+	<item>
+		<id>IKONA4</id>
+		<name>Ikona DUPY!</name>
+		<image>ikona4.png</image>
+	</item>
+	<item>
+		<id>IKONA5</id>
+		<name>Ikona fodleru</name>
+		<image>ikona5.png</image>
+	</item>
+	<item>
+		<id>IKONA6</id>
+		<name>Ikona nie wiem</name>
+		<image>ikona6.png</image>
+	</item>
+	<item>
+		<id>IKONA7</id>
+		<name>KALAFIOR</name>
+		<image>ikona7.png</image>
+	</item>
+	<item>
+		<id>IKONA8</id>
+		<name>Kotlecik</name>
+		<image>ikona8.png</image>
+	</item>
+	<item>
+		<id>IKONA9</id>
+		<name>Ikona dupki</name>
+		<image>ikona9.png</image>
+	</item>
+	<item>
+		<id>IKONA10</id>
+		<name>Dziesiona</name>
+		<image>ikona10.png</image>
+	</item>
+<items>

@@ -1,0 +1,59 @@
+﻿Build started 2011-11-01 21:04:05.
+     1>Project "C:\Users\asus\Documents\Visual Studio 2010\Projects\Hiperduperjazda\Hiperduperjazda\Hiperduperjazda.vcxproj" on node 2 (rebuild target(s)).
+     1>_PrepareForClean:
+         Deleting file "Debug\Hiperduperjazda.lastbuildstate".
+       InitializeBuildStatus:
+         Creating "Debug\Hiperduperjazda.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MD /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt character.cpp engine.cpp main.cpp map.cpp timer.cpp weapon.cpp
+         weapon.cpp
+     1>c:\users\asus\documents\visual studio 2010\projects\hiperduperjazda\hiperduperjazda\weapon.cpp(5): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\asus\documents\visual studio 2010\projects\hiperduperjazda\hiperduperjazda\weapon.cpp(12): warning C4244: '=' : conversion from 'float' to 'Sint16', possible loss of data
+     1>c:\users\asus\documents\visual studio 2010\projects\hiperduperjazda\hiperduperjazda\weapon.cpp(19): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\asus\documents\visual studio 2010\projects\hiperduperjazda\hiperduperjazda\weapon.cpp(32): warning C4244: '=' : conversion from 'float' to 'Sint16', possible loss of data
+     1>c:\users\asus\documents\visual studio 2010\projects\hiperduperjazda\hiperduperjazda\weapon.cpp(33): warning C4244: '=' : conversion from 'float' to 'Sint16', possible loss of data
+     1>c:\users\asus\documents\visual studio 2010\projects\hiperduperjazda\hiperduperjazda\weapon.cpp(37): warning C4244: '=' : conversion from 'float' to 'Sint16', possible loss of data
+     1>c:\users\asus\documents\visual studio 2010\projects\hiperduperjazda\hiperduperjazda\weapon.cpp(38): warning C4244: '=' : conversion from 'float' to 'Sint16', possible loss of data
+         timer.cpp
+         map.cpp
+         main.cpp
+     1>c:\users\asus\documents\visual studio 2010\projects\hiperduperjazda\hiperduperjazda\main.cpp(71): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+     1>c:\users\asus\documents\visual studio 2010\projects\hiperduperjazda\hiperduperjazda\main.cpp(71): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+     1>c:\users\asus\documents\visual studio 2010\projects\hiperduperjazda\hiperduperjazda\main.cpp(86): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\asus\documents\visual studio 2010\projects\hiperduperjazda\hiperduperjazda\main.cpp(96): warning C4018: '<' : signed/unsigned mismatch
+         engine.cpp
+     1>c:\users\asus\documents\visual studio 2010\projects\hiperduperjazda\hiperduperjazda\engine.cpp(5): warning C4244: 'argument' : conversion from 'time_t' to 'unsigned int', possible loss of data
+         character.cpp
+     1>c:\users\asus\documents\visual studio 2010\projects\hiperduperjazda\hiperduperjazda\character.cpp(28): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\asus\documents\visual studio 2010\projects\hiperduperjazda\hiperduperjazda\character.cpp(29): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\asus\documents\visual studio 2010\projects\hiperduperjazda\hiperduperjazda\character.cpp(33): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\asus\documents\visual studio 2010\projects\hiperduperjazda\hiperduperjazda\character.cpp(34): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\asus\documents\visual studio 2010\projects\hiperduperjazda\hiperduperjazda\character.cpp(51): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\asus\documents\visual studio 2010\projects\hiperduperjazda\hiperduperjazda\character.cpp(52): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\asus\documents\visual studio 2010\projects\hiperduperjazda\hiperduperjazda\character.cpp(341): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+     1>c:\users\asus\documents\visual studio 2010\projects\hiperduperjazda\hiperduperjazda\character.cpp(341): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+     1>c:\users\asus\documents\visual studio 2010\projects\hiperduperjazda\hiperduperjazda\character.cpp(357): warning C4244: '=' : conversion from 'float' to 'int', possible loss of data
+     1>c:\users\asus\documents\visual studio 2010\projects\hiperduperjazda\hiperduperjazda\character.cpp(358): warning C4244: '=' : conversion from 'float' to 'int', possible loss of data
+     1>c:\users\asus\documents\visual studio 2010\projects\hiperduperjazda\hiperduperjazda\character.cpp(359): warning C4244: '=' : conversion from 'float' to 'int', possible loss of data
+     1>c:\users\asus\documents\visual studio 2010\projects\hiperduperjazda\hiperduperjazda\character.cpp(360): warning C4244: '=' : conversion from 'float' to 'int', possible loss of data
+     1>c:\users\asus\documents\visual studio 2010\projects\hiperduperjazda\hiperduperjazda\character.cpp(362): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\asus\documents\visual studio 2010\projects\hiperduperjazda\hiperduperjazda\character.cpp(380): warning C4018: '<' : signed/unsigned mismatch
+         Generating Code...
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\asus\Documents\Visual Studio 2010\Projects\Hiperduperjazda\Debug\Hiperduperjazda.exe" /NOLOGO SDL.lib SDLmain.lib SDL_image.lib SDL_ttf.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\Hiperduperjazda.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:\Users\asus\Documents\Visual Studio 2010\Projects\Hiperduperjazda\Debug\Hiperduperjazda.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\asus\Documents\Visual Studio 2010\Projects\Hiperduperjazda\Debug\Hiperduperjazda.lib" /MACHINE:X86 Debug\character.obj
+         Debug\engine.obj
+         Debug\main.obj
+         Debug\map.obj
+         Debug\timer.obj
+         Debug\weapon.obj
+         Hiperduperjazda.vcxproj -> C:\Users\asus\Documents\Visual Studio 2010\Projects\Hiperduperjazda\Debug\Hiperduperjazda.exe
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"C:\Users\asus\Documents\Visual Studio 2010\Projects\Hiperduperjazda\Debug\Hiperduperjazda.exe;#1" /manifest Debug\Hiperduperjazda.exe.intermediate.manifest
+       FinalizeBuildStatus:
+         Deleting file "Debug\Hiperduperjazda.unsuccessfulbuild".
+         Touching "Debug\Hiperduperjazda.lastbuildstate".
+     1>Done Building Project "C:\Users\asus\Documents\Visual Studio 2010\Projects\Hiperduperjazda\Hiperduperjazda\Hiperduperjazda.vcxproj" (rebuild target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:12.51
